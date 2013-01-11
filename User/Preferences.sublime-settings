@@ -39,6 +39,7 @@
 	],
 	"folder_exclude_patterns":
 	[
+		".bundle",
 		".svn",
 		".git",
 		"coverage",
