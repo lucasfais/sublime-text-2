@@ -4,7 +4,7 @@
   {"keys": ["ctrl+alt+["], "command": "fold"},
   {"keys": ["ctrl+alt+]"], "command": "unfold"},
   {"keys": ["ctrl+super+r"], "command": "reveal_in_side_bar"},
-  {"keys": ["super+shift+w"], "command": "close_other_tabs"},
+  {"keys": ["super+control+w"], "command": "close_other_tabs"},
   {"keys": ["super+l"], "command": "show_overlay", "args": {"overlay": "goto", "text": ":"}},
   {"keys": ["super+shift+l"], "command": "expand_selection", "args": {"to": "line"}},
   {"keys": ["super+k", "super+t"], "command": "title_case"},
