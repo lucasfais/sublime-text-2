@@ -56,6 +56,7 @@
 	"font_size": 16.0,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
+	"hot_exit": false,
 	"ignored_packages":
 	[
 		"Vintage"
@@ -68,6 +69,7 @@
 	},
 	"open_files_in_new_window": true,
 	"preview_on_click": true,
+	"remember_open_files": false,
 	"rulers":
 	[
 		80
