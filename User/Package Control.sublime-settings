@@ -1,36 +1,25 @@
 {
+	"auto_upgrade_last_run": null,
 	"cache_length": 86400,
 	"installed_packages":
 	[
 		"Alignment",
-		"BufferScroll",
 		"ChangeQuotes",
-		"ColorPick",
-		"CTags",
 		"DetectSyntax",
 		"ERB Insert and Toggle Commands",
 		"Expand Selection to Quotes",
 		"FindKeyConflicts",
-		"GitGutter",
-		"Gitignore",
-		"Guard",
-		"Handlebars",
 		"IndentGuides",
-		"Jasmine",
 		"KeymapManager",
-		"Markdown Preview",
-		"nginx",
 		"Package Control",
 		"RailsCasts Colour Scheme",
 		"RSpec",
 		"RspecToggle",
 		"RubyEval",
-		"RubyTest",
 		"Sass",
 		"SideBarEnhancements",
 		"Terminal",
 		"Theme - Soda",
-		"Toggle Symbol to String",
-		"WordCount"
+		"Toggle Symbol to String"
 	]
 }
